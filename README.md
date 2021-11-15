@@ -1,6 +1,6 @@
 # tarea7
 
-A new Flutter project.
+Luis Ricardo Díaz Flores - is714522
 
 ## Getting Started
 
